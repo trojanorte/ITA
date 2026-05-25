@@ -1,0 +1,14 @@
+﻿variavel,nome_grafico,importancia_rf
+agua,Água,0.353219591442657
+tratamento_esgoto,Trat. esgoto,0.35289666830343
+esgoto,Esgoto,0.23777025753543155
+porte_populacional_log,Porte populacional,0.01949151978055263
+Pontuação Indice ODS 2025,IDSC 2025,0.009015024261264337
+politica_ambiental,Política ambiental,0.008221647233784136
+infraestrutura,Infraestrutura,0.0076471367924684595
+Goal 11 Score,ODS 11,0.004352329889231844
+Goal 13 Score,ODS 13,0.0034889067438432903
+risco_inundacao,Risco inundação,0.0015838715209529595
+risco_deslizamento,Risco deslizamento,0.0013435576121111812
+risco_composto,Risco composto,0.0008167408581927302
+exposicao_domicilios_risco,Exposição,0.00015274802607994836

@@ -1,0 +1,242 @@
+{
+  "uf": "SP",
+  "dea_engine": "internal",
+  "municipios_analisados": 645,
+  "municipios_eficientes": 35,
+  "eficiencia_media": 0.8249957201803516,
+  "eficiencia_mediana": 0.8741629013518417,
+  "rf_oob_score": 0.914497170707816,
+  "rf_r2_in_sample": 0.9599356538898183,
+  "rf_mae_in_sample": 0.013562230542339095,
+  "dea_status_count": {
+    "0": 645
+  },
+  "top10_eficiencia": [
+    {
+      "Município": "São Joaquim da Barra",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.655
+    },
+    {
+      "Município": "São Simão",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.65
+    },
+    {
+      "Município": "Santópolis do Aguapeí",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.5900000000000001
+    },
+    {
+      "Município": "Dumont",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.575
+    },
+    {
+      "Município": "Monte Alto",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.54
+    },
+    {
+      "Município": "Nova Europa",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.54
+    },
+    {
+      "Município": "Auriflama",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.5249999999999999
+    },
+    {
+      "Município": "Paulo de Faria",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.52
+    },
+    {
+      "Município": "Pompéia",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.5
+    },
+    {
+      "Município": "Terra Roxa",
+      "eficiencia_dea": 1.0,
+      "risco_composto": 0.495
+    }
+  ],
+  "bottom10_eficiencia": [
+    {
+      "Município": "Caconde",
+      "eficiencia_dea": 0.27540992927748376,
+      "risco_composto": 0.715,
+      "grupo_prioridade": "alto risco/baixa eficiência"
+    },
+    {
+      "Município": "Estiva Gerbi",
+      "eficiencia_dea": 0.30387694202349386,
+      "risco_composto": 0.505,
+      "grupo_prioridade": "alto risco/baixa eficiência"
+    },
+    {
+      "Município": "Monte Alegre do Sul",
+      "eficiencia_dea": 0.3068185356738427,
+      "risco_composto": 0.165,
+      "grupo_prioridade": "baixo risco/baixa eficiência"
+    },
+    {
+      "Município": "Pedra Bela",
+      "eficiencia_dea": 0.34447589736380146,
+      "risco_composto": 0.305,
+      "grupo_prioridade": "baixo risco/baixa eficiência"
+    },
+    {
+      "Município": "Quadra",
+      "eficiencia_dea": 0.3585384470901591,
+      "risco_composto": 0.08,
+      "grupo_prioridade": "baixo risco/baixa eficiência"
+    },
+    {
+      "Município": "Nazaré Paulista",
+      "eficiencia_dea": 0.3670883857521788,
+      "risco_composto": 0.69,
+      "grupo_prioridade": "alto risco/baixa eficiência"
+    },
+    {
+      "Município": "Juquitiba",
+      "eficiencia_dea": 0.38986712276424884,
+      "risco_composto": 0.605,
+      "grupo_prioridade": "alto risco/baixa eficiência"
+    },
+    {
+      "Município": "Rincão",
+      "eficiencia_dea": 0.3926280072399982,
+      "risco_composto": 0.485,
+      "grupo_prioridade": "alto risco/baixa eficiência"
+    },
+    {
+      "Município": "Balbinos",
+      "eficiencia_dea": 0.393442118226601,
+      "risco_composto": 0.4,
+      "grupo_prioridade": "baixo risco/baixa eficiência"
+    },
+    {
+      "Município": "São José do Barreiro",
+      "eficiencia_dea": 0.40398382529257076,
+      "risco_composto": 0.635,
+      "grupo_prioridade": "alto risco/baixa eficiência"
+    }
+  ],
+  "top10_prioridade": [
+    {
+      "Município": "Caconde",
+      "eficiencia_dea": 0.27540992927748376,
+      "risco_composto": 0.715,
+      "indice_prioridade": 0.9658914728682171,
+      "benchmarks_sugeridos": "Dumont; Santópolis do Aguapeí; Leme"
+    },
+    {
+      "Município": "Nazaré Paulista",
+      "eficiencia_dea": 0.3670883857521788,
+      "risco_composto": 0.69,
+      "indice_prioridade": 0.9430202511868278,
+      "benchmarks_sugeridos": "Dumont; Santópolis do Aguapeí; Paulo de Faria"
+    },
+    {
+      "Município": "Aparecida",
+      "eficiencia_dea": 0.4853299533874914,
+      "risco_composto": 0.765,
+      "indice_prioridade": 0.9410167658193618,
+      "benchmarks_sugeridos": "Leme; São Simão; São Joaquim da Barra"
+    },
+    {
+      "Município": "Pirapora do Bom Jesus",
+      "eficiencia_dea": 0.5194429708222812,
+      "risco_composto": 0.71,
+      "indice_prioridade": 0.9053037678024156,
+      "benchmarks_sugeridos": "Leme; Dumont; Santópolis do Aguapeí"
+    },
+    {
+      "Município": "Francisco Morato",
+      "eficiencia_dea": 0.516583787618608,
+      "risco_composto": 0.6950000000000001,
+      "indice_prioridade": 0.9009614806802476,
+      "benchmarks_sugeridos": "Leme; Pompéia; São Simão"
+    },
+    {
+      "Município": "Cruzeiro",
+      "eficiencia_dea": 0.5698074647546549,
+      "risco_composto": 0.8049999999999999,
+      "indice_prioridade": 0.8979820924223304,
+      "benchmarks_sugeridos": "Leme; São Simão; São Joaquim da Barra"
+    },
+    {
+      "Município": "Rafard",
+      "eficiencia_dea": 0.5347769041303524,
+      "risco_composto": 0.735,
+      "indice_prioridade": 0.8966576527852894,
+      "benchmarks_sugeridos": "Leme; Dumont; Santópolis do Aguapeí"
+    },
+    {
+      "Município": "Vargem Grande do Sul",
+      "eficiencia_dea": 0.48352311481621824,
+      "risco_composto": 0.675,
+      "indice_prioridade": 0.8875788714620515,
+      "benchmarks_sugeridos": "Santópolis do Aguapeí; Dumont; São Simão"
+    },
+    {
+      "Município": "Potim",
+      "eficiencia_dea": 0.5198920126954016,
+      "risco_composto": 0.685,
+      "indice_prioridade": 0.8812643470945256,
+      "benchmarks_sugeridos": "São Simão; São Joaquim da Barra; Leme"
+    },
+    {
+      "Município": "Barrinha",
+      "eficiencia_dea": 0.5206621826449414,
+      "risco_composto": 0.685,
+      "indice_prioridade": 0.8798053001622499,
+      "benchmarks_sugeridos": "Dumont; Paulo de Faria; Terra Roxa"
+    }
+  ],
+  "top_importance": [
+    {
+      "variavel": "agua",
+      "nome_grafico": "Água",
+      "importancia_rf": 0.353219591442657
+    },
+    {
+      "variavel": "tratamento_esgoto",
+      "nome_grafico": "Trat. esgoto",
+      "importancia_rf": 0.35289666830343
+    },
+    {
+      "variavel": "esgoto",
+      "nome_grafico": "Esgoto",
+      "importancia_rf": 0.23777025753543155
+    },
+    {
+      "variavel": "porte_populacional_log",
+      "nome_grafico": "Porte populacional",
+      "importancia_rf": 0.01949151978055263
+    },
+    {
+      "variavel": "Pontuação Indice ODS 2025",
+      "nome_grafico": "IDSC 2025",
+      "importancia_rf": 0.009015024261264337
+    },
+    {
+      "variavel": "politica_ambiental",
+      "nome_grafico": "Política ambiental",
+      "importancia_rf": 0.008221647233784136
+    },
+    {
+      "variavel": "infraestrutura",
+      "nome_grafico": "Infraestrutura",
+      "importancia_rf": 0.0076471367924684595
+    },
+    {
+      "variavel": "Goal 11 Score",
+      "nome_grafico": "ODS 11",
+      "importancia_rf": 0.004352329889231844
+    }
+  ]
+}
